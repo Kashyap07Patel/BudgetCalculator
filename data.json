@@ -1,0 +1,21 @@
+{
+  "users": [
+    {
+      "id": 101,
+      "name": "Kashyap",
+      "lastname": "Patel",
+      "username": "lusifer",
+      "email": "k@g.com",
+      "password": "123"
+    },
+    {
+      "id": 102,
+      "name": "Rahul",
+      "lastname": "Sharma",
+      "username": "stark",
+      "email": "r@g.com",
+      "password": "321"
+    }
+    
+  ]
+}
